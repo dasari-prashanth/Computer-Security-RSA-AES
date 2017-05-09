@@ -1,0 +1,6 @@
+To Run AES Implementation,
+compile and run ServerChatForm first, followed by ClientChatForm
+
+To Run RSA implementation. 
+Comiple and run ServerWithRSA followed by ClientWithRSA. 
+Terminate the previous program to free the destroy the socket.
